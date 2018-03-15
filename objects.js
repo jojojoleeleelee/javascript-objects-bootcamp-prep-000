@@ -1,4 +1,4 @@
-var playlist = {playlist
+var playlist =  new playlist
 };
 var updatePlaylist = {
   playlist: '',
