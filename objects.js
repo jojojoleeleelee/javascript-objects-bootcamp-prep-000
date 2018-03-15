@@ -3,4 +3,7 @@ var playlist =  {
   artistName: '',
   songTitle: ''
 }
-function updatePlaylist
+function updatePlaylist (playlist, artistName, songTitle) {
+  obj [key] = value
+  return obj
+}
