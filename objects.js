@@ -1,6 +1,4 @@
-var playlist =  new playlist
-};
-var updatePlaylist = {
+var playlist =  {
   playlist: '',
   artistName: '',
   songTitle: ''
