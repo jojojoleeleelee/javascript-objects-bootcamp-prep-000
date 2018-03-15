@@ -1,4 +1,3 @@
-var playlist
-= {};
+new Object (playlist);
 
 object.playlist()
