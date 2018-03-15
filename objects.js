@@ -1,6 +1,6 @@
 var playlist = {playlist
 };
-var updatePlaylists(artistName,songTitle) = {artistName:'',
+function updatePlaylists(artistName,songTitle) = {artistName:'',
 songTitle:''
 }
 
