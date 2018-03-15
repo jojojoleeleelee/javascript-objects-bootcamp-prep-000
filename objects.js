@@ -1,3 +1,2 @@
-var playlists = {};
-var playlists = new Object ();
-var playlists {playlists}
+var Object = {};
+var Object = new playlists ();
