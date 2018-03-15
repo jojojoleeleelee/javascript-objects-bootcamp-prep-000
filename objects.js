@@ -1,2 +1,4 @@
-var Object = {};
-var Object = new playlists ();
+var playlists = {
+  classical: 'Beethoven',
+romantic: 'Schumann',
+contemporary: 'Adams'}
